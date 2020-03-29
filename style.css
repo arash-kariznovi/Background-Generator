@@ -1,0 +1,7 @@
+body{
+	text-align: center;
+	background-image: linear-gradient(to right, red , yellow);
+	font-family: arial;
+	color: rgb(0,0,0,.6);
+	text-transform: uppercase;
+}
